@@ -61,7 +61,7 @@
   - [minimap] (https://atom.io/packages/minimap)
   - [pigments] (https://atom.io/packages/pigments)
   - [project-manager] (https://atom.io/packages/project-manager)
-  - [EditorConfig](https://atom.io/packages/editorconfig)
+  - [editorconfig](https://atom.io/packages/editorconfig)
 
 ## Use it yourself
 
