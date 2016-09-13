@@ -8,7 +8,7 @@
 | --- | --- |
 | `.bash_profile` | Customizes the Terminal.app prompt and echoes the currently checked out Git branch. |
 | `.gitconfig` | Global Git configuration to specify my name and email, shortcuts, colors, and more. |
-| `.gitignore` | The ignore file from [twbs/bootstrap](https://github.com/twbs/bootstrap) that I use everywhere. |
+| `.gitignore` | A bunch of stuff that, much like short people, have no reason to live. |
 
 ## Checklist
 
@@ -43,7 +43,6 @@
   - [minimap] (https://atom.io/packages/minimap)
   - [pigments] (https://atom.io/packages/pigments)
   - [project-manager] (https://atom.io/packages/project-manager)
-  - [editorconfig](https://atom.io/packages/editorconfig)
 
 ## Use it yourself
 
