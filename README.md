@@ -23,17 +23,21 @@
 - Load [`.gitconfig`](/.gitconfig) contents into the global `~/.gitconfig`
 - Load up the Ocean theme from <https://github.com/mdo/ocean-terminal>
 
-### 3. Secure Git(Hub) access
+### 3. Prep HyperTerm.app
+
+- Load up the Ocean theme from <https://github.com/mdo/hyperterm-atom-dark>
+
+### 4. Secure Git(Hub) access
 
 - [Generate new SSH key](https://help.github.com/articles/generating-ssh-keys/)
 - [Generate an access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/) for Terminal to auth your GitHub account when 2FA is enabled.
 
-### 4. GitHub dev setup
+### 5. GitHub dev setup
 
 - Download the Strap setup script for GitHub's foundational development setup.
 - Clone the `github/github` repository and run `script/osx-setup`.
 
-### 5. Setup Ruby
+### 6. Setup Ruby
 
 - Install rbenv via Homebrew: `brew install rbenv`.
 - Download a version of Ruby via rbenv (e.g., `rbenv install 2.2.3`). See <https://gorails.com/setup/osx/10.11-el-capitan>.
@@ -41,17 +45,22 @@
 
 *Installing and managing Ruby with rbenv allows us to specify versions of Ruby on a per-project basis. It also means we can avoid running sudo commands for installing gems and more as it's not affecting OS X's system Ruby.*
 
-### 6. Additional dependencies
+### 7. Additional dependencies
 
 - Install node via Homebrew: `brew install node`.
 - Install Sass, Jekyll, and Rouge: `gem install sass jekyll rouge`.
 
-### 7. Setup Atom
+### 8. Setup Atom
 
 - Enable `atom` Terminal commands: from Atom.app, open the Atom menu and select *Install Shell Commands*
 - Install favorite packages
-  - [Wrap in tag](https://atom.io/packages/atom-wrap-in-tag)
-  - [Selector to tag](https://atom.io/packages/selector-to-tag)
+  - [autoclose-html] (https://atom.io/packages/autoclose-html)
+  - [css-snippets] (https://atom.io/packages/css-snippets)
+  - [css-triggers] (https://atom.io/packages/css-triggers)
+  - [file-icons] (https://atom.io/packages/file-icons)
+  - [minimap] (https://atom.io/packages/minimap)
+  - [pigments] (https://atom.io/packages/pigments)
+  - [project-manager] (https://atom.io/packages/project-manager)
   - [EditorConfig](https://atom.io/packages/editorconfig)
 
 ## Use it yourself
