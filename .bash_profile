@@ -49,27 +49,3 @@ DIR=~/work
 alias h='cd ~/'
 alias w='cd ${DIR}'
 alias bs='cd ${DIR}/bootstrap'
-
-## Core GitHub apps
-alias gh='cd ~/github'
-alias gg='cd ~/github/github'
-alias ggg='gg && script/server'
-alias giants='cd ~/github/giants'
-alias hire='cd ~/github/hire'
-alias summit='cd ~/github/summit'
-alias primer='cd ~/github/primer'
-
-## Server guick starts
-alias ss='script/server'
-alias js='jekyll serve --watch'
-alias ps='python -m SimpleHTTPServer 4000'
-alias gtest='testrb test/integration/bundle_test.rb'
-
-## Mobile iOS testing
-alias ios='open /Applications/Xcode.app/Contents/Developer/Applications/Simulator.app'
-
-# Added by the Heroku Toolbelt
-export PATH="/usr/local/heroku/bin:$PATH"
-
-# rbenv
-if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
