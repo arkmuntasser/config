@@ -36,13 +36,13 @@
 
 - Enable `atom` Terminal commands: from Atom.app, open the Atom menu and select *Install Shell Commands*
 - Install favorite packages
-  - [autoclose-html] (https://atom.io/packages/autoclose-html)
-  - [css-snippets] (https://atom.io/packages/css-snippets)
-  - [css-triggers] (https://atom.io/packages/css-triggers)
-  - [file-icons] (https://atom.io/packages/file-icons)
-  - [minimap] (https://atom.io/packages/minimap)
-  - [pigments] (https://atom.io/packages/pigments)
-  - [project-manager] (https://atom.io/packages/project-manager)
+  - [autoclose-html](https://atom.io/packages/autoclose-html)
+  - [css-snippets](https://atom.io/packages/css-snippets)
+  - [css-triggers](https://atom.io/packages/css-triggers)
+  - [file-icons](https://atom.io/packages/file-icons)
+  - [minimap](https://atom.io/packages/minimap)
+  - [pigments](https://atom.io/packages/pigments)
+  - [project-manager](https://atom.io/packages/project-manager)
 
 ## Use it yourself
 
