@@ -1,6 +1,6 @@
 # Config
 
-**Config** is a basic checklist I follow to set up a new Mac's development environment. It gets me up to speed with Git, Ruby, GitHub, Jekyll, and more so I can more quickly get back to coding.
+**Config** is a basic checklist I follow to set up a new Mac's development environment.
 
 ## Contents
 
@@ -32,25 +32,7 @@
 - [Generate new SSH key](https://help.github.com/articles/generating-ssh-keys/)
 - [Generate an access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/) for Terminal to auth your GitHub account when 2FA is enabled.
 
-### 5. GitHub dev setup
-
-- Download the Strap setup script for GitHub's foundational development setup.
-- Clone the `github/github` repository and run `script/osx-setup`.
-
-### 6. Setup Ruby
-
-- Install rbenv via Homebrew: `brew install rbenv`.
-- Download a version of Ruby via rbenv (e.g., `rbenv install 2.2.3`). See <https://gorails.com/setup/osx/10.11-el-capitan>.
-- Make it the global version of Ruby: `rbenv global 2.2.3`.
-
-*Installing and managing Ruby with rbenv allows us to specify versions of Ruby on a per-project basis. It also means we can avoid running sudo commands for installing gems and more as it's not affecting OS X's system Ruby.*
-
-### 7. Additional dependencies
-
-- Install node via Homebrew: `brew install node`.
-- Install Sass, Jekyll, and Rouge: `gem install sass jekyll rouge`.
-
-### 8. Setup Atom
+### 5. Setup Atom
 
 - Enable `atom` Terminal commands: from Atom.app, open the Atom menu and select *Install Shell Commands*
 - Install favorite packages
