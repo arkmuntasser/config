@@ -8,7 +8,8 @@
 | --- | --- |
 | `.bash_profile` | Customizes the Terminal.app prompt and echoes the currently checked out Git branch. |
 | `.gitconfig` | Global Git configuration to specify my name and email, shortcuts, colors, and more. |
-| `.gitignore` | A bunch of stuff that, much like short people, have no reason to live. |
+| `.gitignore` | A bunch of stuff that, much like short people, have no reason to live. |
+| `.editorconfig` | Global editor configuration preferences. |
 
 ## Checklist
 
