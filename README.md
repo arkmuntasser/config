@@ -35,7 +35,7 @@
 
 ### 5. Prep Text Editors
 
-- load [`.editorconfig`](/.editorconfig)
+- Load [`.editorconfig`](/.editorconfig)
 
 ### 6. Setup Atom
 
