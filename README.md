@@ -1,56 +1,72 @@
 # Config
 
-**Config** is a basic checklist I follow to set up a new Mac's development environment.
+**Config** is a basic checklist to make sure I have all my stuff and things the way I like it!
 
-## Contents
+## Apps
 
-| File | Description |
-| --- | --- |
-| `.bash_profile` | Customizes the Terminal.app prompt and echoes the currently checked out Git branch. |
-| `.gitconfig` | Global Git configuration to specify my name and email, shortcuts, colors, and more. |
-| `.gitignore` | A bunch of stuff that, much like short people, have no reason to live. |
-| `.editorconfig` | Global editor configuration preferences. |
+### Hyper.js
 
-## Checklist
+A Terminal.app replacement. Use the config provided to set it up.
 
-### 1. Prep OS X
+#### [Spaceship Prompt](https://denysdovhan.com/spaceship-prompt/)
 
-- Download and install latest version of Xcode from the Mac App Store.
-- Download and install Xcode Command Line Tools from <https://developer.apple.com/downloads/>.
+An improved prompt to make ZSH dope as fuck.
 
-### 2. Prep Terminal.app
+### VS Code
 
-- Load [`.bash_profile`](/.bash_profile)
-- Load [`.gitconfig`](/.gitconfig) contents into the global `~/.gitconfig`
-- Load up the Ocean theme from <https://github.com/mdo/ocean-terminal>
+My text editor of choice. Use the provided settings and install the extensions below.
 
-### 3. Secure Git(Hub) access
+#### Extensions
 
-- [Generate new SSH key](https://help.github.com/articles/generating-ssh-keys/)
-- [Generate an access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/) for Terminal to auth your GitHub account when 2FA is enabled.
+- Better Comments
+- Bookmarks
+- Bracket Pair Colorizer 2
+- Code Spell Checker
+- EditorConfig for VS Code
+- ESLint
+- Glitch
+- Live Share
+- Markdown All in One
+- Markdown Preview VS Code Highlighting
+- MDX
+- Prettier
+- Visual Studio IntelliCode
+- vscode-styled-components
+- vscode-styled-jsx
+- Word Count
 
-### 4. Prep Text Editors
+### Beamer
 
-- Load [`.editorconfig`](/.editorconfig)
+### iA Writer
 
-### 5. Setup Atom
+### Pixelmator Pro
 
-- Enable `atom` Terminal commands: from Atom.app, open the Atom menu and select *Install Shell Commands*
-- Install favorite packages
-  - [autoclose-html](https://atom.io/packages/autoclose-html)
-  - [css-snippets](https://atom.io/packages/css-snippets)
-  - [css-triggers](https://atom.io/packages/css-triggers)
-  - [file-icons](https://atom.io/packages/file-icons)
-  - [minimap](https://atom.io/packages/minimap)
-  - [project-manager](https://atom.io/packages/project-manager)
-  - [editorconfig](https://atom.io/packages/editorconfig)
+### GitHub Desktop
 
-## Use it yourself
+### Dropbox
 
-Fork this repo, or just copy-paste things you need, and make it your own. **Please be sure to change your `.gitconfig` name and email address though!**
+### PixelSnap
 
-## Works on my machine
+### Rocket
 
-Yup, it does. Hopefully it does on yours as well, but please don't hate me if it doesn't.
+### Chrome
 
-<3
+### Firefox
+
+### VLC
+
+### Transmission
+
+### DaisyDisk
+
+### Ehon
+
+### Kap
+
+### Airflow
+
+### Contrast
+
+### Sip
+
+### Now

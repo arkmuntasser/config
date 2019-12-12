@@ -1,0 +1,36 @@
+{
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false
+  },
+  "[markdown]": {
+    "editor.formatOnSave": false,
+    "editor.fontFamily": "\"IA Writer Duo V\", monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 12,
+    "editor.lineHeight": 20,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 80,
+    "editor.quickSuggestions": false
+  },
+  "eslint.autoFixOnSave": true,
+  "editor.wordWrap": "bounded",
+  "editor.wordWrapColumn": 120,
+  "editor.fontFamily": "Cascadia Code, Fira Code, Source Code Pro, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "window.zoomLevel": 1,
+  "workbench.startupEditor": "newUntitledFile",
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "breadcrumbs.enabled": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "glitch.token": "db429a53-9e56-4159-976f-81dcacaebc35",
+  "terminal.external.osxExec": "hyper.app",
+  "terminal.integrated.shell.osx": "/bin/zsh"
+}
