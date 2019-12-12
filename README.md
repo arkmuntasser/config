@@ -4,19 +4,21 @@
 
 ## Apps
 
-### Hyper.js
+### Development
+
+#### [Hyper.js](https://hyper.is/)
 
 A Terminal.app replacement. Use the config provided to set it up.
 
-#### [Spaceship Prompt](https://denysdovhan.com/spaceship-prompt/)
+##### [Spaceship Prompt](https://denysdovhan.com/spaceship-prompt/)
 
 An improved prompt to make ZSH dope as fuck.
 
-### VS Code
+#### [VS Code](https://code.visualstudio.com/)
 
 My text editor of choice. Use the provided settings and install the extensions below.
 
-#### Extensions
+##### Extensions
 
 - Better Comments
 - Bookmarks
@@ -35,38 +37,42 @@ My text editor of choice. Use the provided settings and install the extensions b
 - vscode-styled-jsx
 - Word Count
 
-### Beamer
+#### [Sip](https://sipapp.io/)
 
-### iA Writer
+#### [Now](https://zeit.co/home)
 
-### Pixelmator Pro
+#### [Beamer](https://beamer-app.com/)
 
-### GitHub Desktop
+#### GitHub Desktop
 
-### Dropbox
+#### [PixelSnap](https://getpixelsnap.com/)
 
-### PixelSnap
+#### Chrome
 
-### Rocket
+#### Firefox
 
-### Chrome
+#### [Kap](https://getkap.co/)
 
-### Firefox
+### Utilities
 
-### VLC
+#### iA Writer
 
-### Transmission
+#### Dropbox
 
-### DaisyDisk
+#### VLC
 
-### Ehon
+#### Transmission
 
-### Kap
+#### Pixelmator Pro
 
-### Airflow
+#### DaisyDisk
 
-### Contrast
+### Fun
 
-### Sip
+#### [Rocket](https://matthewpalmer.net/rocket/)
 
-### Now
+#### Ehon
+
+#### [Airflow](https://airflow.app/)
+
+#### [Contrast](https://usecontrast.com/)
